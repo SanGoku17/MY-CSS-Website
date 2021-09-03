@@ -94,6 +94,9 @@ h3{
   color: #11999E;
   padding: 20px;
 }
+.footer-link:hover{
+  color: #EAF6F6;
+}
 .credit{
   color: #EAF6F6;
 }
