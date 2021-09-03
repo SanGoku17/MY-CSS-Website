@@ -5,6 +5,11 @@ body{
   text-align: center;
 font-family: 'Merriweather', serif;
 }
+p{
+
+  line-height: 2;
+}
+
 
 h1{
   font-size: 5.625rem;
@@ -26,6 +31,9 @@ h3{
   background-color: #E4F5F9;
   position: relative;
   padding-top: 100px;
+}
+.middle-container{
+  margin: 100px 0 50px;
 }
 
 .bottom-container{
@@ -49,7 +57,6 @@ h3{
   margin: 100px auto;
   width: 50%;
   text-align: left;
-  line-height: 2;
 
 }
 
@@ -96,7 +103,7 @@ h3{
    -moz-border-radius: 9px;
    border-radius: 9px;
    color: #FFFFFF;
-   font-family: Trebuchet MS;
+   font-family: 'Montserrat', sans-serif;
    font-size: 15px;
    font-weight: 100;
    padding: 13px;
@@ -106,6 +113,12 @@ h3{
    display: inline-block;
    cursor: pointer;
    text-align: center;
+}
+.contact{
+  width: 30%;
+  margin: auto;
+  padding-bottom: 30px;
+  
 }
 
 .mypic{
